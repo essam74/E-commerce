@@ -14,7 +14,7 @@ import { globalErrorHandling } from './utils/errorHandling.js'
 import cors from 'cors'
 
 
-
+// routes
 const initApp = (app, express) => {
 
     // to select frontend developer who can access to backend 
